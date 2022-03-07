@@ -1,2 +1,4 @@
 # The-Amazing-Snake
-The Amazing Snake is a Web Game.
+Visit Here: https://the-amazing-snake-kishormalakar.netlify.app
+
+The Amazing Snake is a Web Game. It is made using HTML, CSS and JavaScript.
